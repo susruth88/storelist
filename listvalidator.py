@@ -1,3 +1,1 @@
-import pandas as pd  
-mydata  = pd.read_table("file.txt")
-print(mydata)
+assert sum([1,2]) == 3
